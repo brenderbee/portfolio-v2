@@ -159,6 +159,10 @@
   background-position: left top;
 } 
 
+.work-grid-item .details p {
+  margin: 0 1rem;
+}
+
 .work-grid-item:nth-child(1) {
   background-color: #E1EDB9;
   display: flex;
@@ -196,6 +200,7 @@
 
 .work-grid-item .details-links {
   display: flex;
+  margin-bottom: 1rem;
 }
 
 .work-grid-item .details-links a {

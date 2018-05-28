@@ -1,4 +1,4 @@
-@font-face {
+/* @font-face {
   font-family: Julius;
   src: url(assets/font/Julius/JuliusSansOne-Regular.ttf);
 }
@@ -6,7 +6,7 @@
 @font-face {
   font-family: Monda;
   src: url(assets/font/Monda/Monda-Regular.ttf);
-}
+} */
 
 * {
   margin: 0;
@@ -18,10 +18,10 @@ body {
 }
 
 p, ul, li, dl {
-  font-family: Monda, sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 0.9rem;
 }
 
 h1, h2, h3, h4, a {
-  font-family: Julius, sans-serif;
+  font-family: 'Bree Serif', serif;
 }
